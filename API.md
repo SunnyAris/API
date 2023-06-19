@@ -1,4 +1,4 @@
-An Application Programming Interface (API) is a contract that allows a computer program to talk to other computer programs. APIs are the building blocks of modern software because they allow for the sharing of resources and services across applications, organizations, and devices.
+### An Application Programming Interface (API) is a contract that allows a computer program to talk to other computer programs. APIs are the building blocks of modern software because they allow for the sharing of resources and services across applications, organizations, and devices.
 
 - Customer = Client (typically a browser, web app or mobile app)
 
@@ -7,7 +7,7 @@ An Application Programming Interface (API) is a contract that allows a computer 
 - Kitchen = Server (backend where the processing happens)
 
 
-***API types
+## API types
 
 The term API is often used to refer to web APIs, which allow communication between computers that are joined by the internet. While this course will focus on Web APIs, it is important to keep in mind that the term "API" can apply to a broad range of interfaces:
 
@@ -36,7 +36,7 @@ Multiple API types may be used to achieve a simple task. For example, uploading 
 
 
 
-****API architectures
+### API architectures
 
 *There is more than one way to build and consume APIs. These are some of the most common architecture types you may come across:
 
@@ -55,7 +55,7 @@ Multiple API types may be used to achieve a simple task. For example, uploading 
 - MQTT (MQ Telemetry Transport)
 
 
-*** API accessibility
+### API accessibility
 
 APIs also vary in the scope of who can access them:
 
